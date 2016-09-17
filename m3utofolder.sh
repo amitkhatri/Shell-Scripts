@@ -1,4 +1,9 @@
 #!/bin/bash
+# Amit Khatri
+# 09-16-2016
+# The following shell scripts will take mpd playlists
+# and copy the corresponding audio files to a target
+# directory.
 echo "Enter Playlist: $1"
 echo "Output Directory: $2"
 
